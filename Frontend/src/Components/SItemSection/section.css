@@ -1,0 +1,20 @@
+.main_part{
+    border: 1px solid black;
+    height: 600px;
+    margin: 20px 50px 20px 50px;
+    display: flex;
+    
+}
+.addv{
+    border: 1px solid rgb(230, 15, 15); 
+    height: 550px;
+    margin: 20px;
+    width: 450px;
+}
+.products_I{
+    border: 1px solid rgb(53, 3, 12);
+    width: 950px;
+    margin-top: 20px;
+  height: 250px;
+
+}

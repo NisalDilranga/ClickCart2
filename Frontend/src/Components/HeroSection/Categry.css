@@ -1,0 +1,26 @@
+.hd{
+    font-size: 30px;
+    font-weight: 600;
+}
+.cart_slider-main .item1{
+  
+    height: 150px;
+    background: rgb(252, 47, 47);
+
+}
+.cart_slider-main .item2{
+  
+    height: 150px;
+    background: rgb(94, 237, 51);
+
+}
+.cart_slider-main .slick-slide{
+    padding: 10px;
+}
+.card2{
+ margin: 40px 40px 20px 40px;
+
+
+}
+
+

@@ -1,0 +1,36 @@
+.slider-container{
+border: 1px solid black;
+}
+.slider1 .slick-slide{
+    border: 1px solid black;
+    padding: 20px;
+}
+.card{
+   
+    height: 300px;
+    display: flex;
+    align-items: center;
+
+}
+.card img{
+ 
+    margin: 10px 60px;
+    width: 150px;
+    height: 150px;
+}
+.card h3{
+   
+    font-size: 19px;
+ 
+   font-weight: 100px;
+}
+.plus_i{
+   font-size: 20px; 
+   position: relative;
+   top: -10px;
+   left: 110px;
+}
+.d-block{
+
+    height:600px;
+}
